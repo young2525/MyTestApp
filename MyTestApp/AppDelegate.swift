@@ -4,7 +4,7 @@
 //
 //  Created by watanabe_daisuke on 2016/04/28.
 //  Copyright © 2016年 watanabe_daisuke. All rights reserved.
-//
+//ドットインストールで学んだことを活かし、アプリ作成
 
 import UIKit
 
